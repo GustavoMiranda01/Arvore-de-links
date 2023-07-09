@@ -81,6 +81,7 @@ button {
   display: inline-block;
   color: #45505b;
   line-height: 1;
+  margin-left: 23px;
   margin-bottom: 20px;
   transition: 0.3s;
   display: flex;
