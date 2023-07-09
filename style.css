@@ -91,7 +91,7 @@ button {
 }
 
 .threads {
-  width: 30px;
+  width: 32px;
 }
 
 a {
@@ -106,7 +106,7 @@ footer {
 
 @media screen and (max-width: 770px) {
   .threads {
-    width: 30px;
+    width: 32px;
   }
 
 }
