@@ -82,6 +82,14 @@ button {
   line-height: 1;
   margin-bottom: 20px;
   transition: 0.3s;
+  display: flex;
+  flex-direction: initial;
+  align-items: center;
+  justify-content: center;
+}
+
+.threads {
+  width: 26px;
 }
 
 a {
