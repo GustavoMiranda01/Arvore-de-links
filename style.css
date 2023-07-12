@@ -109,4 +109,10 @@ footer {
     width: 32px;
   }
 
+  footer {
+    margin: 0 17px 50px;
+    font-size: 12px;
+    font-weight: 400;
+  }
+
 }
