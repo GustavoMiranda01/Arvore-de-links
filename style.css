@@ -114,6 +114,7 @@ footer {
   footer {
     margin: 0 17px 50px;
     font-size: 12px;
+    align-items: center;
     font-weight: 400;
   }
 
